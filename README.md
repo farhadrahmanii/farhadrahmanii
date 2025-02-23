@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouckay&label=Profile%20views&color=0e75b6&style=flat" alt="rouckay" /> </p>
 
-- 🔭 I’m currently working on **APEX CONSULTING**
+- 🔭 I’m currently working on **Sayas Group**
 
 - 🌱 I’m currently learning **LARAVEL INERTIA**
 
