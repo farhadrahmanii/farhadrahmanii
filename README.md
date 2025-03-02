@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sayas Group**
 
-- 🌱 I’m currently learning **LARAVEL React and Next**
+- 🌱 I’m currently learning **LARAVEL 12 React and Next**
 
 - 👯 I’m looking to collaborate on **PMS**
 
