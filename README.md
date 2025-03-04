@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Porject**
 
-- 💬 Ask me about **REACT, NEXT.JS**
+- 💬 Ask me about **Laravel, REACT and NEXT.JS**
 
 - 📫 How to reach me **farhadwardak2018@gmail.com**
 
