@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Laravel, REACT and NEXT.JS**
 
-- 📫 How to reach me **farhadwardak2018@gmail.com**
+- 📫 How to reach me **info@farhad.in**
 
 <img src="readmefile.svg">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
