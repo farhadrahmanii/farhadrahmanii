@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LARAVEL 12 React and Next**
 
-- 👯 I’m looking to collaborate on **PMS**
+- 👯 I’m looking to collaborate on **Open Source Porject**
 
 - 💬 Ask me about **REACT, NEXT.JS**
 
