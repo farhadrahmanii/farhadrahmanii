@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **LARAVEL 12 React and Next**
   
 - 👯 I’m looking to collaborate on **Open Source Porject**
+  
 - 💬 Ask me about **Laravel, REACT and NEXT.JS**
 
 - 📫 How to reach me **info@farhad.in**
